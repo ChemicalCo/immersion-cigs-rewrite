@@ -25,8 +25,9 @@ We do not encourage anyone to smoke in real life, we don't smoke irl, it's just 
   - prisonerMO - Scripting: remoteExec -> CBA Events
   - kneely - WW2 Cigarette Models and Textures
   - Vespade - Immersive Crayon Models and Textures
-  - OverlordZorn - Rewrite of configs and scripts, fixing some models here, adding some new textures there and glueing everything together.
-  - ArtemisGodfrey - Helping with models.
+  - Brominum - Model of Cigarbox and refurbished sounds
+  - ArtemisGodfrey - Helping with models
+  - OverlordZorn - Rewrite of configs and scripts, fixing some models here, adding some new textures there and glueing everything together
 
 ### Dependencies
 - Latest Arma 3
